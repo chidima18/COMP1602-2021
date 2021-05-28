@@ -4,4 +4,4 @@ This repository contains Computer Programming II lab material for Semester 3, 20
 
 ## Week 1
 
-Introduction to Structs in C++. Functions involving the use of structs as well as nested structs are covered.
+Introduction to Structs in C++. Functions involving the use of structs as well as nested structs are covered. Note that the code you come up with for the `getDiffInYears` and `compareDate` functions may differ and still be completely correct.
